@@ -21,7 +21,7 @@ name="TRON (TRX)"
 desc=" 1 TRX token entitles you to receive 1 TRX on the Tron blockchain. TRON is a project and a decentralized protocol based on blockchain, with its internal currency under the same name TRON (TRX). The aim of the project is to create an effective platform for content distribution in the digital entertainment industry. The TRON coin is used as a way to power the network. The TRON mainnet was released in June 2018. All TRX (ERC-20) tokens were initially distributed on the Ethereum platform and were then transferred to the new blockchain as TRON coins. The TRON Foundation (the legal entity responsible for the project) was founded in September 2017 by its current CEO, Justin Sun. The purpose of the foundation is to provide the TRON network with the necessary maintenance power to become a free, global entertainment content ecosystem. "
 conditions=" 1 TRX TOKEN ENTITLES YOU TO RECEIVE ON 1 TRX ON THE TRON BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON trxexchange@tutanota.com "
 image="https://ibb.co/k1rvgPT"
-fixed_number=72000000000
-max_number=72000000000
+fixed_number=7200000000
+max_number=7200000000
 is_unlimited=false
 #TRX was issued using the open and inclusive Stellar blockchain network.
