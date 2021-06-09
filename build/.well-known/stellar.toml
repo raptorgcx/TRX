@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GDUX77SWF6UVHIXSCLV6YWEHFMMMVGAS2O2ZYGQIU3FV2NEM6GZ5SNVX",
-"GBOXFFELBZXTBNP3FP6DQNBP2VY3NQX72XTHSKO2QITGWEFNMTJXTWEK"
+"GDQCUPSL4VNI7HV3LYP3KLFUP4HVZKH3HUNJOKSTCAOHC4VXQ3TPXVTI"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XRP"
-ORG_TWITTER="@XRP"
-ORG_LOGO="https://i.ibb.co/TBWhzVz/d89d14e67a5a828f48b26b6207571810.png"
-ORG_OFFICIAL_EMAIL="XRP@tutanota.com"
+ORG_NAME="TRX"
+ORG_TWITTER="@TRX"
+ORG_LOGO="https://ibb.co/k1rvgPT"
+ORG_OFFICIAL_EMAIL="TRX@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XRP"
-issuer="GBOXFFELBZXTBNP3FP6DQNBP2VY3NQX72XTHSKO2QITGWEFNMTJXTWEK"
+code="TRX"
+issuer="GDQCUPSL4VNI7HV3LYP3KLFUP4HVZKH3HUNJOKSTCAOHC4VXQ3TPXVTI"
 anchor_asset="false"
-name="Ripple (XRP)"
-desc=" 1 XRP token entitles you to receive 1 XRP on the Ripple blockchain. XRP is the cryptocurrency used by the Ripple payment network. Built for enterprise use, XRP aims to be a fast, cost-efficient cryptocurrency for cross-border payments. "
-conditions=" 1 XRP TOKEN ENTITLES YOU TO RECEIVE ON 1 XRP ON THE RIPPLE BLOCKCHAIN. WITHDRAWING IS MANUAL SO PLEASE CONTACT US ON xrpexchange@tutanota.com "
-image="hhttps://i.ibb.co/ScQxBkR/db7221672fc6b447f7af2b1f61b140ef.png"
-fixed_number=10000000
-max_number=10000000
+name="TRON (TRX)"
+desc=" 1 TRX token entitles you to receive 1 TRX on the Tron blockchain. TRON is a project and a decentralized protocol based on blockchain, with its internal currency under the same name TRON (TRX). The aim of the project is to create an effective platform for content distribution in the digital entertainment industry. The TRON coin is used as a way to power the network. The TRON mainnet was released in June 2018. All TRX (ERC-20) tokens were initially distributed on the Ethereum platform and were then transferred to the new blockchain as TRON coins. The TRON Foundation (the legal entity responsible for the project) was founded in September 2017 by its current CEO, Justin Sun. The purpose of the foundation is to provide the TRON network with the necessary maintenance power to become a free, global entertainment content ecosystem. "
+conditions=" 1 TRX TOKEN ENTITLES YOU TO RECEIVE ON 1 TRX ON THE TRON BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON trxexchange@tutanota.com "
+image="https://ibb.co/k1rvgPT"
+fixed_number=72000000000
+max_number=72000000000
 is_unlimited=false
-#XRP was issued using the open and inclusive Stellar blockchain network.
+#TRX was issued using the open and inclusive Stellar blockchain network.
